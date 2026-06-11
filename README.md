@@ -1,2 +1,24 @@
-# Grocery_Guru
-Grocery Guru is a smart grocery management application that helps users organize shopping lists, track inventory, manage expenses, and receive recommendations for efficient grocery shopping.
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
